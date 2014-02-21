@@ -1,0 +1,20 @@
+{
+  "name": "thymeleaf.js",
+  "version": "0.0.0",
+  "description": "JavaScript port of the Thymeleaf templating system.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samtiffin/thymeleaf.js.git"
+  },
+  "keywords": [
+    "thymeleaf",
+    "thyme",
+    "template"
+  ],
+  "author": "Sam Tiffin <sam@samtiffin.com>",
+  "bugs": {
+    "url": "https://github.com/samtiffin/thymeleaf.js/issues"
+  },
+  "homepage": "https://github.com/samtiffin/thymeleaf.js"
+}
